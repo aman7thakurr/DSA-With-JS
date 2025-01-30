@@ -1,12 +1,32 @@
-// Operations on Singly Linked List
-// Traversal
-// Searching
+# Operations on Singly Linked List
+<br>
+# Traversal
+<br>
+
+# Searching
+<br>
+
 // Length
-// Insertion:
-// Insert at the beginning
-// Insert at the end
-// Insert at a specific position
-// Deletion:
-// Delete from the beginning
-// Delete from the end
-// Delete a specific node
+<br>
+
+# Insertion:
+<br>
+
+# Insert at the beginning
+<br>
+
+# Insert at the end
+<br>
+
+# Insert at a specific position
+<br>
+
+# Deletion:
+<br>
+# Delete from the beginning
+<br>
+
+# Delete from the end
+<br>
+
+# Delete a specific node
