@@ -1,7 +1,7 @@
 # Operations on Singly Linked List
 <br>
 
-# Traversal
+# Traversal ✔
 
 <br>
 
