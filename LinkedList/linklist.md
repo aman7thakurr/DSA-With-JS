@@ -1,12 +1,14 @@
 # Operations on Singly Linked List
 <br>
+
 # Traversal
+
 <br>
 
 # Searching
 <br>
 
-// Length
+# Length
 <br>
 
 # Insertion:
@@ -23,6 +25,7 @@
 
 # Deletion:
 <br>
+
 # Delete from the beginning
 <br>
 
